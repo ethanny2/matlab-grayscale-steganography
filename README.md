@@ -2,6 +2,8 @@
 [![Twitter Badge](https://img.shields.io/badge/chat-twitter-blue.svg)](https://twitter.com/ArrayLikeObj)
 [![GitHub license](https://img.shields.io/github/license/ethanny2/matlab-grayscale-steganography)](https://github.com/ethanny2/matlab-grayscale-steganography/blob/master/LICENSE)
 
+![Gif of script in action](https://media.giphy.com/media/fvH4otHpsK6ZKS4E6B/giphy.gif "Demo gif")
+
 ## Requirements
 + A program to execute .m scripts such as Matlab or the free alternative [GNU Octave](https://www.gnu.org/software/octave/).
 + Only works on [.bmp files](https://www.paintshoppro.com/en/pages/bmp-file/)
